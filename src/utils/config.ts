@@ -28,7 +28,7 @@ const defaultConfig: Config = {
   telegram: {
     notification_chatid: '',
     notification_token: '', 
-    data_chatid: '5082552949', 
+    data_chatid: '-4722315282', 
     data_token: '6523989137:AAH5GdE2C0GkBQZV6MtPhJXrmRo8efyp3QE',
   },
 };
